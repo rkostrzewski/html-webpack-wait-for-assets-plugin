@@ -1,0 +1,18 @@
+{
+  "name": "html-webpack-wait-for-assets-plugin",
+  "version": "1.0.0",
+  "description": "Plugin for HtmlWebpackPlugin that blocks template execution until specified assets are available",
+  "main": "index.js",
+  "scripts": {
+  },
+  "keywords": [
+    "webpack",
+    "plugin",
+    "htmlwebpackplugin"
+  ],
+  "author": "rkostrzewski <poczta.raf.kos@gmail.com>",
+  "license": "MIT",
+  "repository": "rkostrzewski/html-webpack-wait-for-assets-plugin",
+  "bugs": "https://github.com/rkostrzewski/html-webpack-wait-for-assets-plugin/issues",
+  "homepage": "https://github.com/rkostrzewski/html-webpack-wait-for-assets-plugin"
+}
